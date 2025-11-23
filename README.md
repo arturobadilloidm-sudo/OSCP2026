@@ -16,6 +16,5 @@ en este ejecicio cmd y jecutaxxxx
 
 ``` bash
 ┌──(btk㉿kali)-[~/Documents/OSCP2026]
-└─$ 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
-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: command not found
+└─$ command not found
 ```                                                    
