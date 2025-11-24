@@ -28,7 +28,7 @@ Changes not staged for commit:
 ```
 
 Paso 3 Realizar el commit al repositorio oficial con el comando
-
+git commit -m "Mensaje de actualización de commit"
 
 
 ```
